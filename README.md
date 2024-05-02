@@ -1,0 +1,2 @@
+# LangageC
+apprendre pas jouer
